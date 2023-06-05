@@ -3,7 +3,7 @@
 
 Características principais:
 
-Fabricação de carros: O sistema permite a fabricação de carros de diferentes tipos, como sedans, esportivos, SUVs, hatchbacks, entre outros.
+Fabricação de carros: O sistema permite a fabricação de carros de diferentes tipos, como sedans, esportivos.
 
 O projeto é desenvolvido seguindo o padrão de projeto Abstract Factory Method, permitindo a criação de famílias de objetos relacionados sem especificar suas classes concretas.
 
