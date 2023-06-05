@@ -1,5 +1,5 @@
 # Fabrica de Carros
-## um sistema de fábrica de carros que utiliza o padrão de projeto Abstract Factory Method para criar diferentes tipos de carros. Para que os usuários possam selecionar o tipo de carro desejado e obter os detalhes sobre a fabricação do veículo.
+## Um sistema de fábrica de carros que utiliza o padrão de projeto Abstract Factory Method para criar diferentes tipos de carros. Para que os usuários possam selecionar o tipo de carro desejado e obter os detalhes sobre a fabricação do veículo.
 
 Características principais:
 
